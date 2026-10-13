@@ -53,6 +53,7 @@ StudyNest is a collaborative platform where SPPU Computer Engineering students c
 - 🧪 **Practicals** - Lab files, viva questions, and experiment guides
 - 💡 **Study Tips** - High-scoring patterns and exam strategies
 - 💼 **Career Resources** - Internships, interviews, and resume templates
+- [ResumeAI](https://withresumeai.com/) — free ATS checker and AI resume builder for job applications
 - 🎥 **Video Playlists** - Quick concept learning from YouTube
 - 📊 **Formula Sheets** - Quick revision sheets and cheat sheets
 
